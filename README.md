@@ -50,37 +50,7 @@ I'm currently strengthening my skills in Advanced Power BI, Data Warehousing, an
 
 ## 🐍 Contribution Graph
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight UTC
-  workflow_dispatch: {}   # lets you run it manually anytime
-  push:
-    branches:
-      - main              # change to "master" if that's your default branch
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Nitish-wd
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake.svg"> <img alt="snake animation" src="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake.svg"> </picture>
 
 
 ---
