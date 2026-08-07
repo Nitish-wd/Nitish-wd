@@ -50,18 +50,21 @@ I'm currently strengthening my skills in Advanced Power BI, Data Warehousing, an
 
 ## 🐍 Contribution Graph
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake.svg"> <img alt="snake animation" src="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake.svg"> </picture>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://github.com/Nitish-wd/Nitish-wd/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Data Cleaning & EDA using MySQL](YOUR-REPO-LINK-1)
+### 🔹 [Data Cleaning & EDA using MySQL](https://github.com/Nitish-wd/SQL_Data_Cleaning_and_EDA)
 Cleaned and analyzed a raw dataset using MySQL — handled missing values, duplicates, and inconsistent formatting, then explored the data to find key patterns and trends.
 `MySQL` `SQL` `EDA` `Data Cleaning`
 
-### 🔹 [Real-Time Weather Analysis Dashboard](YOUR-REPO-LINK-2)
+### 🔹 [Real-Time Weather Analysis Dashboard](https://github.com/Nitish-wd/Real-Time-Weather-Analysis-Dashboard)
 Built a dashboard that pulls live weather data from an API and visualizes trends like temperature, humidity, and forecasts in an easy-to-read format.
 `Power BI` `Python` `API` `Data Visualization`
 
