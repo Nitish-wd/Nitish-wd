@@ -38,8 +38,8 @@ I'm currently strengthening my skills in Advanced Power BI, Data Warehousing, an
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitish-wd&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitish-wd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-theta-ten-73.vercel.app/api?username=Nitish-wd&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-theta-ten-73.vercel.app/api/top-langs/?username=Nitish-wd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="left">
