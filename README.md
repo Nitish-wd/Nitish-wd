@@ -1,4 +1,7 @@
-# 🌚 Nitish Kumar Mohapatra
+
+# <img width="64" height="64" alt="leonardo (1)" src="https://github.com/user-attachments/assets/41a35265-8646-407c-a7a8-93f9af52c244" /> Nitish Kumar Mohapatra
+
+
 ### Data Analyst | SQL · Power BI · Python · Tableau
 
 ---
