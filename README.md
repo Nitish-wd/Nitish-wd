@@ -1,4 +1,4 @@
-# ✨ Nitish Kumar Mohapatra
+# 🌚 Nitish Kumar Mohapatra
 ### Data Analyst | SQL · Power BI · Python · Tableau
 
 ---
